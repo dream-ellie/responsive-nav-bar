@@ -90,12 +90,8 @@ a {
   .navbar__menu {
     display: none;
     flex-direction: column;
-    width: 100%;
-  }
-
-  .navbar__menu li {
-    width: 100%;
     text-align: center;
+    width: 100%;
   }
 
   .navbar__menu a {
